@@ -56,7 +56,7 @@ IsleInBiome:
 ######################
 
 # Biome name list where this biome will be border.Like Mushroom isle shore. Use is compared as IsleInBiome
-BiomeIsBorder: 
+BiomeIsBorder: Beach
 
 # Biome name list near border is not applied. 
 NotBorderNear: 
@@ -92,9 +92,9 @@ MaxAverageDepth: 0.0
 
 # Another type of noise. This noise is independent from biomes. The larger the values the more chaotic/volatile landscape generation becomes.
 # Setting the values to negative will have the opposite effect and make landscape generation calmer/gentler.
-Volatility1: 0.0
+Volatility1: -8.0
 
-Volatility2: 0.0
+Volatility2: -16.0
 
 # Adjust the weight of the corresponding volatility settings. This allows you to change how prevalent you want either of the volatility settings to be in the terrain.
 VolatilityWeight1: 0.5
@@ -144,7 +144,7 @@ RiverVolatility: 0.3
 
 # Works the same as WaterLevelMax (scroll down), but is used where a river is generated in this biome
 # Can be used to create elevated rivers
-RiverWaterLevel: 63
+RiverWaterLevel: 127
 
 # Works the same as CustomHeightControl (scroll up), but is used where a river is generated in this biome
 RiverCustomHeightControl: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
@@ -194,7 +194,7 @@ ReplacedBlocks: None
 UseWorldWaterLevel: true
 
 # Set water level. Every empty between this levels will be fill water or another block from WaterBlock.
-WaterLevelMax: 63
+WaterLevelMax: 127
 
 WaterLevelMin: 0
 
