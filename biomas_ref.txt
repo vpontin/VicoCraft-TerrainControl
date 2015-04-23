@@ -1,0 +1,64 @@
+-------------------------------------
+--- Biome list
+-------------------------------------
+TODO:Ocean
+TODO:Plains
+TODO:Desert
+TODO:Extreme Hills
+TODO:Forest
+TODO:Taiga
+TODO:Swampland
+TODO:River
+TODO:Hell
+TODO:Sky
+TODO:FrozenOcean
+TODO:FrozenRiver
+TODO:Ice Plains
+TODO:Ice Mountains
+TODO:MushroomIsland
+TODO:MushroomIslandShore
+TODO:Beach
+TODO:DesertHills
+TODO:ForestHills
+TODO:TaigaHills
+TODO:Extreme Hills Edge
+TODO:Jungle
+TODO:JungleHills
+TODO:JungleEdge
+TODO:Deep Ocean
+TODO:Stone Beach
+TODO:Cold Beach
+TODO:Birch Forest
+TODO:Birch Forest Hills
+TODO:Roofed Forest
+TODO:Cold Taiga
+TODO:Cold Taiga Hills
+TODO:Mega Taiga
+TODO:Mega Taiga Hills
+TODO:Extreme Hills+
+TODO:Savanna
+TODO:Savanna Plateau
+TODO:Mesa
+TODO:Mesa Plateau F
+TODO:Mesa Plateau
+TODO:Sunflower Plains
+TODO:Desert M
+TODO:Extreme Hills M
+TODO:Flower Forest
+TODO:Taiga M
+TODO:Swampland M
+TODO:Ice Plains Spikes
+TODO:Jungle M
+TODO:JungleEdge M
+TODO:Birch Forest M
+TODO:Birch Forest Hills M
+TODO:Roofed Forest M
+TODO:Cold Taiga M
+TODO:Mega Spruce Taiga
+TODO:Mega Spruce Taiga
+TODO:Extreme Hills+ M
+TODO:Savanna M
+TODO:Savanna Plateau M
+TODO:Mesa (Bryce)
+TODO:Mesa Plateau F M
+TODO:Mesa Plateau M
